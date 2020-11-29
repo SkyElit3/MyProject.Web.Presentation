@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\SkyElit3\\RiderProjects\\MyProject.Web.Presentation\\MyProject.Web.Presentation\\MyProject.Web.Presentation.csproj",
+    "projectName": "MyProject.Web.Presentation",
+    "projectPath": "C:\\Users\\SkyElit3\\RiderProjects\\MyProject.Web.Presentation\\MyProject.Web.Presentation\\MyProject.Web.Presentation.csproj",
+    "outputPath": "C:\\Users\\SkyElit3\\RiderProjects\\MyProject.Web.Presentation\\MyProject.Web.Presentation\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "E:\\Faculty\\An 3\\RPA\\Lab3\\PrimeLab3\\CustomActivities": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "C:\\Users\\SkyElit3\\RiderProjects\\MyProject.Web.Presentation\\MyProject.Web.Core\\MyProject.Web.Core.csproj": {
+            "projectPath": "C:\\Users\\SkyElit3\\RiderProjects\\MyProject.Web.Presentation\\MyProject.Web.Core\\MyProject.Web.Core.csproj"
+          },
+          "C:\\Users\\SkyElit3\\RiderProjects\\MyProject.Web.Presentation\\MyProject.Web.Infrastructure\\MyProject.Web.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\SkyElit3\\RiderProjects\\MyProject.Web.Presentation\\MyProject.Web.Infrastructure\\MyProject.Web.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Users\\SkyElit3\\.dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

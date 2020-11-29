@@ -1,0 +1,9 @@
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\bin\Debug\netcoreapp3.1\MyProject.Web.Core.deps.json
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\bin\Debug\netcoreapp3.1\MyProject.Web.Core.dll
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\bin\Debug\netcoreapp3.1\MyProject.Web.Core.pdb
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\obj\Debug\netcoreapp3.1\MyProject.Web.Core.csprojAssemblyReference.cache
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\obj\Debug\netcoreapp3.1\MyProject.Web.Core.AssemblyInfoInputs.cache
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\obj\Debug\netcoreapp3.1\MyProject.Web.Core.AssemblyInfo.cs
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\obj\Debug\netcoreapp3.1\MyProject.Web.Core.csproj.CoreCompileInputs.cache
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\obj\Debug\netcoreapp3.1\MyProject.Web.Core.dll
+C:\Users\SkyElit3\RiderProjects\MyProject.Web.Presentation\MyProject.Web.Core\obj\Debug\netcoreapp3.1\MyProject.Web.Core.pdb
